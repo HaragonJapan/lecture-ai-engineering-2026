@@ -144,3 +144,4 @@ AIエージェントからの出力です。
 [tool return] search_glossary -> [{"term": "LoRA", "lecture": 2, "definition": "事前学習済みの重みは固定したまま、重みの更新分を2つの小さな行列の積（低ランク行列）で表し、その小さな行列だけを学習するPEFT手法。学習するパラ…
 [usage] RunUsage(cost=Decimal('0.0008252'), details={'text_prompt_tokens': 959}, input_text_tokens=959, input_tokens=959, output_tokens=215, requests=2, tool_calls=1)
 ```
+
